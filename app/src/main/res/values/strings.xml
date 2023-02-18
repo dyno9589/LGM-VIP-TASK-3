@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FaceReco</string>
+    <string name="face_detector_application">Face Detector Application</string>
+    <string name="tap_to_camera">Tap to Camera</string>
+    <string name="directions_to_use">Directions to use :</string>
+    <string name="tap_the_use_camera_button">Tap the use camera button</string>
+    <string name="smile_onto_the_camera_and_click_the_image">Smile onto the camera and click the image</string>
+    <string name="confirm_the_image_or_retake">Confirm the image or retake</string>
+    <string name="the_results_will_be_shown_after_you_confirm_the_image">The results will be shown after you confirm the image</string>
+    <string name="todo">TODO</string>
+</resources>

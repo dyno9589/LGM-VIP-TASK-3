@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025247270535",
+    "project_id": "facereco-23fb1",
+    "storage_bucket": "facereco-23fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025247270535:android:ccf323bde049dc8b950a22",
+        "android_client_info": {
+          "package_name": "botarmy.example.facereco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025247270535-trqgfp20q9r9lo8jgeu8nv1ouhgk56fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfS812iCGYvTpZxYLU9B5ddChou1g457s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025247270535-trqgfp20q9r9lo8jgeu8nv1ouhgk56fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
